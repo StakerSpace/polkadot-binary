@@ -1,5 +1,5 @@
 # polkadot-binary
 Deploys binaries
 
-sha256sum:`v0.6.7`
-70be45d7b257280cb4892db69c18460fe5e345ade53fcb101d5ff17574d250f8
+sha256sum:`v0.6.11`
+a5b8c1065cdb176c3d1be0939a239bb283ea582c912b159d58abc976a79c6497
